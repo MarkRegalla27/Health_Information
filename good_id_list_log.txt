@@ -1,0 +1,4 @@
+List 1: 12-3-2015 2:45 pm i = 43377, counter = 8809
+List 2: 12-4-2015 7:10 pm i = 2847, counter = 500
+List 3: 12-4-2015 11:43 pm i = 44962, counter = 9103
+List 4: 12-5-2015 1:45 pm i = 259987, counter = 50000 
